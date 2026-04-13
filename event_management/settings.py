@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'apps.speakers',
     'apps.tracks',
     'apps.common',
+    'apps.users',
 ]
 
 MIDDLEWARE = [
