@@ -45,6 +45,11 @@ INSTALLED_APPS = [
     'apps.tracks',
     'apps.common',
     'apps.users',
+
+    # Third party
+    'rest_framework',
+    'corsheaders',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
